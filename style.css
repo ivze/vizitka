@@ -1,3 +1,15 @@
 body {
-  background-color: aqua;
+  background-color: #a9dfbf;
+}
+
+h1 {
+  display: block;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 100px;
+}
+
+.fotka {
+  display: flex;
+  width: 100%;
+  height: auto;
 }
